@@ -1,0 +1,6 @@
+fileName=C:\Users\lluke\source\repos\University-of-Hull-CST\500083-2223-lab-i-final-lab-rile000\500083_ACW_Sudoku\Main.cpp
+isCpp=
+compilerOpts=-I"C:\Program Files (x86)\Parasoft\C++test for Visual Studio\10.5\engine\runtime\include" /ZI /W3 /Od /EHsc /RTC1 /MDd /fp:precise /Gd /GS /Oy- /Gm- /D"WIN32" /D"_DEBUG" /D"_CONSOLE" /D"_UNICODE" /D"UNICODE" /Zc:wchar_t /Zc:forScope /Zc:inline /WX- /nologo /FC /diagnostics:column -DPARASOFT_CPPTEST -I.
+compilerId=vc_14_2
+workingDir=C:\Users\lluke\source\repos\University-of-Hull-CST\500083-2223-lab-i-final-lab-rile000\500083_ACW_Sudoku\
+advancedOptionsHash=0

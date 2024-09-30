@@ -1,0 +1,31 @@
+file=C:\Users\lluke\source\repos\University-of-Hull-CST\500083-2223-lab-i-final-lab-rile000\500083_ACW_Sudoku\Main.cpp
+compiler=vc_14_2
+working_dir=C:\Users\lluke\source\repos\University-of-Hull-CST\500083-2223-lab-i-final-lab-rile000\500083_ACW_Sudoku
+arg=cl.exe
+arg=-IC:\Program Files (x86)\Parasoft\C++test for Visual Studio\10.5\engine\runtime\include
+arg=/ZI
+arg=/Od
+arg=/EHsc
+arg=/RTC1
+arg=/MDd
+arg=/Gd
+arg=/GS
+arg=/Oy-
+arg=/Gm-
+arg=/DWIN32
+arg=/D_DEBUG
+arg=/D_CONSOLE
+arg=/D_UNICODE
+arg=/DUNICODE
+arg=/Zc:wchar_t
+arg=/Zc:forScope
+arg=/Zc:inline
+arg=/nologo
+arg=/FC
+arg=/diagnostics:column
+arg=-DPARASOFT_CPPTEST
+arg=-I.
+arg=C:\Users\lluke\source\repos\University-of-Hull-CST\500083-2223-lab-i-final-lab-rile000\500083_ACW_Sudoku\Main.cpp
+env=Path=C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86;D:\Windows Kits\10\bin\10.0.22000.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;"C:\WINDOWS\system32;C:\Users\lluke\AppData\Local\Programs\Python\Python310\Scripts";C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;D:\Programmes\Microsoft VS Code\bin;C:\Users\lluke\AppData\Roaming\npm;C:\Users\lluke\.dotnet\tools;C:\Users\lluke\AppData\Local\GitHubDesktop\bin;C:\Program Files (x86)\Parasoft\C++test for Visual Studio\10.5\plugins\com.parasoft.xtest.libs.vstudio.cpp\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.application.vstudio.core\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.coverage.vstudio.ui\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.flowanalysis.vstudio.ui\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.libs.vstudio\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.results.vstudio.ui\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.runtime.vstudio.core;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.runtime.vstudio.core;;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;"C:\WINDOWS\system32;C:\Users\lluke\AppData\Local\Programs\Python\Python310\Scripts";C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;D:\Programmes\Microsoft VS Code\bin;C:\Users\lluke\AppData\Roaming\npm;C:\Users\lluke\.dotnet\tools;C:\Users\lluke\AppData\Local\GitHubDesktop\bin;C:\Program Files (x86)\Parasoft\C++test for Visual Studio\10.5\plugins\com.parasoft.xtest.libs.vstudio.cpp\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.application.vstudio.core\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.coverage.vstudio.ui\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.flowanalysis.vstudio.ui\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.libs.vstudio\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.results.vstudio.ui\os\win32\x86;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.runtime.vstudio.core;C:\Program Files (x86)\Parasoft\Test for Visual Studio\10.5\plugins\com.parasoft.ptest.runtime.vstudio.core
+env=INCLUDE=C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Auxiliary\VS\include;;D:\Windows Kits\10\Include\10.0.22000.0\ucrt;;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Auxiliary\VS\UnitTest\include;D:\Windows Kits\10\Include\10.0.22000.0\um;D:\Windows Kits\10\Include\10.0.22000.0\shared;D:\Windows Kits\10\Include\10.0.22000.0\winrt;D:\Windows Kits\10\Include\10.0.22000.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;
+env=LIB=C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Auxiliary\VS\lib\x86;;D:\Windows Kits\10\lib\10.0.22000.0\ucrt\x86;;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Auxiliary\VS\UnitTest\lib;D:\Windows Kits\10\lib\10.0.22000.0\um\x86;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x86;
